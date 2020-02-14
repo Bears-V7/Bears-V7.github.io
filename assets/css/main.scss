@@ -1,9 +1,9 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-url("https://cdn.jsdelivr.net/font-nanum/1.0/nanumbarungothic/nanumbarungothic.css");
 
 @import
+    "https://cdn.jsdelivr.net/font-nanum/1.0/nanumbarungothic/nanumbarungothic.css",
     "skins/{{ site.text_skin | default: site.data.variables.default.text_skin }}",
     // "skins/chocolate",
     // "skins/dark",
