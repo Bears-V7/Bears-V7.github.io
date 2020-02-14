@@ -3,7 +3,7 @@
 ---
 
 @import
-
+    url ("https://cdn.jsdelivr.net/font-nanum/1.0/nanumbarungothic/nanumbarungothic.css");
     "skins/{{ site.text_skin | default: site.data.variables.default.text_skin }}",
     // "skins/chocolate",
     // "skins/dark",
