@@ -10,7 +10,9 @@ categories: boj
 
 <details>
   <summary>브루트 포스</summary>
-  (여기에 내용을 넣으면 펼칠때 보인대요)
+    <details>
+      <summary>백트래킹</summary>
+    </details>
 </details>
 
 <details>
@@ -23,10 +25,50 @@ categories: boj
 
 <details>
   <summary>그래프</summary>
+    <details>
+      <summary>BFS/DFS</summary>
+      단순 BFS/DFS 활용만 여기에
+    </details>
+    <details>
+      <summary>최단 경로 알고리즘</summary>
+        <details>
+          <summary>다익스트라</summary>
+        </details>
+        <details>
+          <summary>벨만-포드</summary>
+        </details>
+        <details>
+          <summary>플로이드-워셜</summary>
+        </details>
+        <details>
+          <summary>강결합 컴포넌트</summary>
+        </details>
+        <details>
+          <summary>2-SAT</summary>
+        </details>
+    </details>
+</details>
+
+
+<details>
+  <summary>이분 탐색</summary>
+    <details>
+      <summary>가장 긴 증가하는 부분 수열</summary>
+    </details>
 </details>
 
 <details>
   <summary>정수론</summary>
+</details>
+
+<details>
+  <summary>문자열 알고리즘</summary>
+    <details>
+      <summary>KMP</summary>
+    </details>
+    <details>
+      <summary>Manacher</summary>
+    </details>
 </details>
 
 <details>
@@ -38,6 +80,6 @@ categories: boj
       <summary>펜윅 트리</summary>
     </details>
     <details>
-      <summary>인덱스 트리</summary>
+      <summary>스택</summary>
     </details>
 </details>
