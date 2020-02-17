@@ -24,7 +24,7 @@ categories: boj
 </details>
 
 <details>
-  <summary>그래프</summary>
+  <summary>그래프 & 플로우</summary>
     <details>
       <summary>BFS/DFS</summary>
       단순 BFS/DFS 활용만 여기에
@@ -46,6 +46,21 @@ categories: boj
         <details>
           <summary>2-SAT</summary>
         </details>
+    </details>
+    <details>
+      <summary>네트워크 플로우</summary>
+      <details>
+        <summary>포드-풀커슨 & 에드몬드-카프</summary>
+      </details>
+      <details>
+        <summary>이분 매칭</summary>
+      </details>
+      <details>
+        <summary>최소 컷 & 최대 정점 덮개</summary>
+      </details>
+      <details>
+        <summary>MCMF (최소 비용, 최대 유량)</summary>
+      </details>
     </details>
 </details>
 
