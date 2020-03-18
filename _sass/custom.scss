@@ -5,4 +5,8 @@ body {
 details > details {
     margin-left: 10px;
 }
+.button--secondary, .button--secondary:link, .button--secondary:visited {
+    color: #333;
+    background-color: #ffdfd0;
+}
 /* end custom scss snippet */
