@@ -9,6 +9,7 @@ details > details {
     color: #fff;
     background-color: rgba(252,77,80,0.4);
 }
+.root[data-is-touch="false"]
 .button--secondary:hover {
     background-color: rgba(252,77,80,0.5);
 }
